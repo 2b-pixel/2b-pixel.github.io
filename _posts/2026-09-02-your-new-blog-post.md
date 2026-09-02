@@ -7,9 +7,3 @@ I want to become a pharmaceutical engineer while developing indie video games on
 Some of my hobbies are drawing, Reading, Cosplaying, Gaming; I play Honkai Impact 3rd, Valorant, Marvel Rivals
 My favorite subject is Health Analytics.
 
-
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
