@@ -36,6 +36,7 @@ Heart cancer occurs when diseased cells grow out of control near the heart. Ther
     * Without surgery, the average life expectancy is 6 months.
     * With proper treatment people can live up to a year or more.
 
+<img width="375" height="441" alt="Can-You-Get-Heart-Cancer_int2" src="https://github.com/user-attachments/assets/35a1da77-b806-4f73-8064-a2b8e99888fb" />
 
 
 
