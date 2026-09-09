@@ -1,1 +1,1 @@
-Welcome to my blog for UNHP 1117.
+Welcome to my blog for the Honors Forum: AI & Cancer Research. 
